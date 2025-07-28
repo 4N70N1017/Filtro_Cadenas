@@ -1,0 +1,7 @@
+[
+  {
+    "file": "/home/antoniogu/Documents/Migracion_Fondo_De_Ahorro/Ciudades.cpp",
+    "line": 15,
+    "content": "MemcpyS::Mystrcpy(x_nombre, \"Ciudades.dbf\"); //JRRR strcpy(x_nombre, \"Ciudades.dbf\");"
+  }
+]
